@@ -1,4 +1,15 @@
 {
+  "products" : [
+      {
+      "id": 1,
+      "name": "IPhone",
+      "price": 100,
+      "rating": 4,
+      "imgurl": "https://www.tjara.com/wp-content/uploads/2020/04/temp1587941768_570959295.jpg?scale.width=400",
+      "alt": "Iphone Image",
+      "description": "In the PRINCE2 project management method, a product description is a structured format that presents information about a project product. It is a management product, usually created by the project manager during the process of initiating a project in the initial stage of the PRINCE2 project management method."
+    }
+  ],
   "posts": [
     {
       "id": 1,
